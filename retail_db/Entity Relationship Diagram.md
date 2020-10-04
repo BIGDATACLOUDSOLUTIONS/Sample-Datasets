@@ -1,3 +1,4 @@
+```title
 mysql> show tables;
 +---------------------+
 | Tables_in_retail_db |
@@ -82,3 +83,5 @@ mysql> describe products;
 | product_image       | varchar(255) | NO   |     | NULL    |                |
 +---------------------+--------------+------+-----+---------+----------------+
 6 rows in set (0.00 sec)
+
+```
